@@ -5,6 +5,7 @@ traffic_simulation is a simulation of vehicles which are moving along streets in
 This simulation has been developed as a project task in the context of [Udacity Nanodegree Program C++](https://github.com/udacity/CppND-Program-a-Concurrent-Traffic-Simulation).
 
 ## Dependencies
+
 * cmake >= 2.8
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
 * make >= 4.1 (Linux, Mac), 3.81 (Windows)
@@ -20,11 +21,16 @@ This simulation has been developed as a project task in the context of [Udacity 
 
 ## Build instructions
 
-1. Clone this repo.
-2. Make a build directory in the top level directory: `mkdir build && cd build`
-3. Compile: `cmake .. && make`
-4. Run it: `./traffic_simulation`.
+1. Make a build directory in the top level directory: `mkdir build && cd build`
+2. Compile: `cmake .. && make`
+3. Run it: `./traffic_simulation`.
 
 ## More information
 
-* [Udacity github](https://github.com/udacity/CppND-Program-a-Concurrent-Traffic-Simulation)
+* [Udacity C++ Nanodegree program](https://github.com/udacity/CppND-Program-a-Concurrent-Traffic-Simulation)
+
+## License
+
+[MIT](https://opensource.org/licenses/MIT)
+
+
